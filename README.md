@@ -3,10 +3,12 @@ This program uses OpenCV for detecting and classifying candy from a image.
 
 Original image:
 
-![alt center](results/Test_image.png)
+<p align="center">
+![alt text](results/Test_image.png)
+</p>
 
 Resulting image:
 
-![alt right](results/Test_image_result.png)
+![alt text](results/Test_image_result.png)
 
 
