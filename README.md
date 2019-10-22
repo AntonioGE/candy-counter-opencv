@@ -7,6 +7,6 @@ Original image:
 
 Resulting image:
 
-![alt text](results/Test_image_result.png)
+![alt right](results/Test_image_result.png)
 
 
