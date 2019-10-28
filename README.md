@@ -1,5 +1,5 @@
 # Candy counter OpenCV
-This program uses OpenCV for detecting and classifying candy from a image.
+This program uses OpenCV for detecting and classifying candy of different shapes and colors from a image.
 
 ### Original image
 
